@@ -2,10 +2,4 @@
 
 ## Programación DAW Dual
 
-## Key-Concepts :dart: 
-- Nokia
-- Motorola
-- BlackBerry
-
-## UML
-![Custom UML](quarkus_app_UML.png)
+Instrucciones que he seguido para crear esta applicación Quarkus https://github.com/dfleta/one-quarkus-app
